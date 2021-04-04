@@ -11,7 +11,7 @@ In the "People" tab on the left of the organization, you can see that I am a mem
 
 ## Verified commit
 
-You can see that I pushed this commit to this organization as a [verified commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification): [commit link](https://github.com/fredsterorg/verification/commit/fe891a0cb15c7f2f1b450aed6c5d8fc7073ab00e).
+You can see that I pushed this commit to this organization as a [verified commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification): [commit link](https://github.com/PilotgamerGuyorg/verification/commit/ddb8694bfcc84b73157095e928b710092bec2543).
 
 
 ## Verified domain
